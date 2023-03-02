@@ -112,7 +112,7 @@ Different configurations of processor and memory were used for the Virtual Machi
 | **Power BI Report Server (Large)** |16 Cores |64 GB |vStandard_D16S_v3 |
 
 ### 2 Run the LoadTest tool
-If you'd like to run the Reporting Services LoadTest tool against your or a Microsoft Azure deployment of Power BI Report Server, follow these steps.
+If you'd like to run the Reporting Services LoadTest tool against your SQL Server Reporting Services or Power BI Report Server, follow these steps.
 
 1. Clone the Reporting Services LoadTest project from GitHub (https://github.com/Microsoft/Reporting-Services-LoadTest).  
 2. In the project directory, you will find a solution file called RSLoadTests.sln. Open this file in Visual Studio 2015 or later.
